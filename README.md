@@ -1,6 +1,6 @@
 ![image-20201017201726908](https://tva1.sinaimg.cn/large/007S8ZIlgy1gjslgtao0lj31qg0rsqcz.jpg)
 
-**Brief introduction** : A multi-blogger system designed by Python.
+**Brief introduction** : All things will be changed better by CentPrime.
 
 Cent Prime是集成Cent Core、Cent Blog、Cent Master 三大组件的云服务中心，提供高效的云数据管理以及云应用平台支持。下属三大产业均由**伽马云空间实验室（Gamma Cloud Sapce Lab，下文简称GCSL）**维护，自2019年项目启动以来，GCSL逐个完成数据分流、基于PaaS的可视化存储应用等工程任务，先后提出多个核心解决方案，并在多个知名刊物中发表论文数篇，获得众多不同类别奖项。
 
